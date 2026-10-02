@@ -13,20 +13,21 @@
 
 ### Produk
 
-| | |
-|---|---|
-| **[KASKOW Remote](https://kaskow.com/remote-desktop.html)** | Buka dan pakai komputer Anda dari mana saja: dari PC lain, browser, atau HP. Keyboard penuh, salin-tempel teks dan file antar komputer, pembaruan otomatis. |
-| **[Shopee Scraper](https://kaskow.com/p/shopee-scraper/)** | Riset produk dan toko Shopee untuk penjual: data produk, harga, dan stok dalam satu dasbor. |
-| **[KASKOW Tools](https://kaskow.com)** | Kumpulan alat produktivitas dan utilitas: konversi foto & PDF, catatan, to-do, dan lainnya. |
+| Produk | Keterangan | Tautan |
+|---|---|---|
+| **KASKOW Remote** | Buka dan pakai komputer dari mana saja — dari PC lain, browser, atau HP. Keyboard penuh, salin-tempel teks & file antar komputer, pembaruan otomatis. | [Situs](https://kaskow.com/remote-desktop.html) · [GitHub](https://github.com/appkaskow/kaskow-remote) · [Panduan](https://kaskow.com/info/remote/) |
+| **Shopee Scraper** | Riset produk Shopee untuk penjual & afiliasi: estimasi omzet, stok real, produk iklan, dan komisi dalam satu dasbor. | [Situs](https://kaskow.com/p/shopee-scraper/) · [GitHub](https://github.com/appkaskow/kaskow-shopee-scraper) · [Panduan](https://kaskow.com/info/scraper/) |
+| **KASKOW Tools** | Alat gratis di browser: konversi foto & PDF, dan lainnya. | [Situs](https://kaskow.com) · [Panduan](https://kaskow.com/info/tools/) |
 
-### Unduh
+### Pusat Info & Bantuan
 
-- **KASKOW Remote untuk Windows** (Windows 10/11) — [kaskow.com/remote-desktop.html](https://kaskow.com/remote-desktop.html) (cara pakai & unduhan)
+- **Pusat Info** (tutorial, catatan rilis, kabar terbaru): [kaskow.com/info](https://kaskow.com/info/)
+- **Pusat Bantuan** (lapor kendala / pertanyaan): [kaskow.com/bantuan](https://kaskow.com/bantuan/)
 
 ### Keamanan
 
-Semua koneksi ke layanan KASKOW memakai HTTPS. Sesi KASKOW Remote membutuhkan ID dan password dari pemilik PC, dan pemilik PC selalu bisa melihat serta memutus sesi kapan saja.
+Semua koneksi ke layanan KASKOW memakai HTTPS. Sesi KASKOW Remote membutuhkan ID dan password dari pemilik komputer, dan pemiliknya selalu bisa melihat serta memutus sesi kapan saja.
 
 ---
 
-<sub>Kode sumber layanan KASKOW bersifat privat.</sub>
+<sub>Kode sumber layanan KASKOW bersifat privat. Repositori publik di atas hanya berisi informasi produk dan catatan rilis.</sub>
