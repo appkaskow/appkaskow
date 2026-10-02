@@ -15,13 +15,13 @@
 
 | | |
 |---|---|
-| **[KASKOW Remote](https://kaskow.com/p/remote-desktop/)** | Remote desktop untuk Windows, browser, dan HP. Video langsung antar-perangkat, keyboard penuh, salin-tempel file antar-PC, pembaruan otomatis. |
+| **[KASKOW Remote](https://kaskow.com/remote-desktop.html)** | Buka dan pakai komputer Anda dari mana saja: dari PC lain, browser, atau HP. Keyboard penuh, salin-tempel teks dan file antar komputer, pembaruan otomatis. |
 | **[Shopee Scraper](https://kaskow.com/p/shopee-scraper/)** | Riset produk dan toko Shopee untuk penjual: data produk, harga, dan stok dalam satu dasbor. |
 | **[KASKOW Tools](https://kaskow.com)** | Kumpulan alat produktivitas dan utilitas: konversi foto & PDF, catatan, to-do, dan lainnya. |
 
 ### Unduh
 
-- **KASKOW Remote untuk Windows** (Windows 10/11) — [kaskow.com/p/remote-desktop](https://kaskow.com/p/remote-desktop/)
+- **KASKOW Remote untuk Windows** (Windows 10/11) — [kaskow.com/remote-desktop.html](https://kaskow.com/remote-desktop.html) (cara pakai & unduhan)
 
 ### Keamanan
 
